@@ -1,0 +1,13 @@
+.img__meme {
+    float: center;
+    width:  300;
+    height: 300px;
+    object-fit: cover;
+}
+
+.img__meme__download {
+    float: center;
+    width:  400;
+    height: 400px;
+    object-fit: cover;
+}
